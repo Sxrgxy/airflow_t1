@@ -1,0 +1,12 @@
+logs/
+
+plugins/
+
+config/
+
+*.log
+
+*.pyc
+__pycache__/
+
+dags/task_6_dag.py
